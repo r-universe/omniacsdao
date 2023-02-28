@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Rnumerai"]
+	path = Rnumerai
+	url = https://github.com/omniacsdao/rnumerai
+	shallow = true
+	registered = true
