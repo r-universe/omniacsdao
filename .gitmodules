@@ -5,6 +5,3 @@
 [submodule "Rnumerai"]
 	path = Rnumerai
 	url = https://github.com/omniacsdao/rnumerai
-[submodule "uniswappeR"]
-	path = uniswappeR
-	url = https://github.com/omniacsdao/uniswapper
